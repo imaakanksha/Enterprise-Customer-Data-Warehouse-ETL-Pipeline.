@@ -1,0 +1,2 @@
+# Enterprise-Customer-Data-Warehouse-ETL-Pipeline.
+Handling multi-source business data containing dirty entries and bad data formats without causing system crashes.The Solution:Implemented a ForEach Loop Container for multi-file folder automation.Used Data Conversion and dynamic variables to process strongly-typed data fields.Designed a Bad Data Trapto stream faulty records into isolated log files.

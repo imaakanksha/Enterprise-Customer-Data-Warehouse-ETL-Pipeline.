@@ -1,0 +1,10 @@
+# Visual Studio temporary files
+*.suo
+*.user
+*.dtproj.user
+bin/
+obj/
+
+# Raw Data Files (Keep your actual data off GitHub)
+*.txt
+*.csv
